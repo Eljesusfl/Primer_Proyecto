@@ -1,0 +1,47 @@
+body{
+    background: #74ebd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
+}
+.bg-withe{
+    background-color:#fff;
+    border-radius:12px;
+    margin:0px 22px;
+}
+
+.btn{
+    width:120px;
+}
+
+#exampleFormControlTextarea1{
+    resize:none;
+}
+
+.centrado{
+    text-align:center;
+    vertical-align:middle;
+}
+img{
+    width:100%;
+    height:300px;
+}
+
+.navbar{
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                 
+}
+
+.one{
+    font-size:28px;
+    display:inline-block;
+}
+.two{
+    font-size:25px;
+    padding:15px;
+}
+
+.thre{
+    padding:10px;
+}
